@@ -8,7 +8,6 @@ This project aims to create custom emoji sizes for the [twemoji](https://github.
 ./twemoji-resize -size=32
 ```
 
-
 ## Author
 
 [Felipe Mateus](https://felipemateus.com)
